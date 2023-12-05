@@ -11,7 +11,7 @@ export default function Home() {
           <h2>Web Developer</h2>
         </div>
       </div>
-      <div className="flex justify-center font-mono text-white ">More soon to come..</div>
+      <div className="flex justify-center font-mono text-white ">Yamel is stinky</div>
     </main>
   );
 }
