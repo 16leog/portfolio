@@ -11,7 +11,7 @@ const AboutPage: React.FC = () => {
         <div className="flex flex-col items-center justify-center min-h-screen py-2 bg-gradient-to-t from-gray-600 via-gray-800 to-black text-white font-mono">
             <h1 className="text-4xl mb-4">About Me</h1>
             <p className="text-lg mb-4">
-                My name is {name} and I'm {age} years old. I currently live in {location} and work as a {occupation}.
+                My name is {name} and I am {age} years old. I currently live in {location} and work as a {occupation}.
             </p>
             <h2 className="text-2xl mb-2">Hobbies</h2>
             <ul className="list-disc list-inside">
