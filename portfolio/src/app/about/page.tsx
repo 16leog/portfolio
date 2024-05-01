@@ -2,7 +2,7 @@ import React from 'react';
 
 const AboutPage: React.FC = () => {
     const name = 'Leonel';
-    const age = 23;
+    const age = 24;
     const location = 'McAllen, TX';
     const occupation = 'Web Developer';
     const hobbies = ['Soccer', 'Music', 'Web Development'];
