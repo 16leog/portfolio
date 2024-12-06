@@ -4,7 +4,7 @@ export default function Contact() {
         
         <div className="flex flex-col items-center font-mono text-white space-y-4 mt-10">
           <p className="text-lg">
-            I'd love to hear from you! Feel free to reach out using any of the methods below:
+            I would love to hear from you! Feel free to reach out using any of the methods below:
           </p>
           <div className="text-center">
             <h2 className="text-xl font-bold">Email</h2>
